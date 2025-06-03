@@ -5,7 +5,7 @@ A high-power, multi-wavelength LED-based transmitter designed for Underwater Opt
 
 ## 🔍 Project Overview    
 
-This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet. It explores the use of blue (470–499nm), green (500–530nm), and yellow (550–600nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.                
+This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet and with the support of PhD researcher Tharuka Govinda Waduge. It explores the use of blue (470–499 nm), green (500–530 nm), and yellow (550–600 nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.                  
 
 ## ⚙️ Features  
 
