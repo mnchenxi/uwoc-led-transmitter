@@ -1,11 +1,11 @@
  
-# Underwater Optical LED Transmitter        
+# Underwater Optical LED Transmitter          
 
-A high-power, multi-wavelength LED-based transmitter designed for Underwater Optical Wireless Communication (UOWC) systems. This project aims to enable high-speed, short- to mid-range underwater data transmission using modular optical hardware and differential signaling.        
+A high-power, multi-wavelength LED-based transmitter designed for Underwater Optical Wireless Communication (UOWC) systems. This project aims to enable high-speed, short- to mid-range underwater data transmission using modular optical hardware and differential signaling.          
 
 ## 🔍 Project Overview    
 
-This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet. It explores the use of blue (470–499nm), green (500–530nm), and yellow (550–600nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.            
+This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet. It explores the use of blue (470–499nm), green (500–530nm), and yellow (550–600nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.              
 
 ## ⚙️ Features  
 
@@ -17,7 +17,7 @@ This project was completed as part of my Master of Engineering Studies at Auckla
 
 * Custom-designed modular PCB with decoupling and heat dissipation optimizations.    
 
-* Frequency-dependent current and thermal performance testing.  
+* Frequency-dependent current and thermal performance testing.    
 
 * Designed for future underwater deployment (currently tested in air).  
 
@@ -53,7 +53,7 @@ Tests were conducted in lab (air environment)
 
 Stable operation at 1.5–2W power with <80°C max component surface temp
 
-**Frequency-Dependent Current:**  
+**Frequency-Dependent Current:**    
 
 Demonstrated working signal modulation up to 4 MHz  
 
@@ -64,8 +64,6 @@ Clean transitions observed via oscilloscope at key MOSFET and LED nodes
 **Transmitter-Receiver Interaction:**  
 
 Optical signal successfully received at 1–4 MHz using photodiode circuit    
-
-📘 For detailed methodology, diagrams, and waveforms, click here to view the full report.    
 
 ## 🚀 Future Work
 
