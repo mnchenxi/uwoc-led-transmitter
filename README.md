@@ -43,7 +43,7 @@ This project was completed as part of my Master of Engineering Studies at Auckla
 
 * Power routing and signal isolation to minimize EMI  
 
-* Thermal vias and copper pour to enhance dissipation    
+* Thermal vias and copper pour to enhance dissipation      
 
 ## 🔬 Testing & Results  
 
@@ -77,8 +77,6 @@ Optical signal successfully received at 1–4 MHz using photodiode circuit   
 * Integrate modulation schemes (e.g., 4-PPM, OFDM)    
 
 * Explore custom LED packaging for higher frequency response
-
-* Expand multi-channel receiver design  
 
 
 ## 👤 Author
