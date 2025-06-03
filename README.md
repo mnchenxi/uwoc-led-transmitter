@@ -5,7 +5,7 @@ A high-power, multi-wavelength LED-based transmitter designed for Underwater Opt
 
 ## 🔍 Project Overview    
 
-This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet. It explores the use of blue (470–499nm), green (500–530nm), and yellow (550–600nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.              
+This project was completed as part of my Master of Engineering Studies at Auckland University of Technology under the supervision of Prof. Boon-Chong Seet. It explores the use of blue (470–499nm), green (500–530nm), and yellow (550–600nm) LEDs for underwater optical data transmission. The system was designed to operate up to 4 MHz with stable signal and thermal performance.                
 
 ## ⚙️ Features  
 
@@ -48,8 +48,10 @@ This project was completed as part of my Master of Engineering Studies at Auckla
 ## 🔬 Testing & Results  
 
 Tests were conducted in lab (air environment)
+### 🖼️ Part of the experimental test process  
+![SIMPLEPCB](PROCESS.png)
 
-**Heat Dissipation:**
+**Heat Dissipation:**  
 
 Stable operation at 1.5–2W power with <80°C max component surface temp
 
@@ -61,13 +63,16 @@ Demonstrated working signal modulation up to 4 MHz 
 
 Clean transitions observed via oscilloscope at key MOSFET and LED nodes
 
-**Transmitter-Receiver Interaction:**  
+**Transmitter-Receiver Interaction:**      
 
 Optical signal successfully received at 1–4 MHz using photodiode circuit    
 
-## 🚀 Future Work
+### 🖼️ Simple Branch PCB Layout (Altium Designer)  
+![SIMPLEPCB](SIMPLEPCB.png)  
 
-* Underwater testing in controlled environments      
+## 🚀 Future Work  
+
+* Underwater testing in controlled environments        
 
 * Integrate modulation schemes (e.g., 4-PPM, OFDM)    
 
